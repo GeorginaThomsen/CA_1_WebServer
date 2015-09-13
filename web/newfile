@@ -1,0 +1,20 @@
+Server 1:
+USER#Georgina
+Running
+serving list
+MSG##Hej alle
+
+[Hans]
+MSG#Hans#Hej Hans
+
+
+Server2:
+USER#Georgina
+Running
+serving list
+MSG##Hej alle
+
+[Hans]
+MSG#Hans#Hej Hans
+
+
